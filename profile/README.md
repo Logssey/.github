@@ -7,7 +7,7 @@
   From Detection to Response.
 </div>
 
----
+
 
 ## Overview
 
@@ -42,15 +42,6 @@ Logssey는 개발부터 배포, 운영까지 다양한 보안 영역을 통합 �
 4. **Respond** — 담당자 지정부터 조치 상태 확인까지 대응 과정을 관리합니다.
 <br>
 
-## Repositories
-
-| Repository | Description |
-| --- | --- |
-| [service-frontend](https://github.com/Logssey/service-frontend) | 통합 대시보드 및 사용자 인터페이스 |
-| [service-backend](https://github.com/Logssey/service-backend) | 서비스 백엔드 및 API |
-| [infrastructure](https://github.com/Logssey/infrastructure) | AWS·Kubernetes 인프라 및 배포 구성 |
-| [service-design-docs](https://github.com/Logssey/service-design-docs) | 서비스 요구사항 및 설계 자료 |
-| [security-solution-docs](https://github.com/Logssey/security-solution-docs) | 보안 기능 설계 및 기술 자료 |
 
 ---
 
